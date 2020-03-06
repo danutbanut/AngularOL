@@ -1,5 +1,7 @@
 {
   "name": "EterraMobile",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular"
 }
